@@ -1,24 +1,13 @@
-```md
----
 
 ## 🌈 Matrix Rain
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="0" height="0" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="0" height="0" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRmdWJhZHNxZ3RrdG14ejN5cm5hZzh5NGs2ZnJ1d3YwZ2l0NjF6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=300&color=39FF14&center=true&vCenter=true&width=900&height=80&lines=01001001+01101110+01101001+01110100;10110100+01010101+11001010+00110101;const+dream+%3D+build()%3B;while(alive)+%7B+ship()%3B+%7D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=300&color=0B5FFF&center=true&vCenter=true&width=900&height=80&lines=01001001+01101110+01101001+01110100;10110100+01010101+11001010+00110101;const+dream+%3D+build()%3B;while(alive)+%7B+ship()%3B+%7D" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=300&color=39FF14&center=true&vCenter=true&width=900&height=80&lines=01001001+01101110+01101001+01110100;10110100+01010101+11001010+00110101;const+dream+%3D+build()%3B;while(alive)+%7B+ship()%3B+%7D" />
-</picture>
+<p align="center">
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b>
+</p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,25:00D4FF,50:FFCC00,75:FF0055,100:8A2BE2&height=4&section=header" width="85%" />
-
-<br/><br/>
-
-> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**  
-> — Martin Fowler
-
-</div>
-```
